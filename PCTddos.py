@@ -51,7 +51,7 @@ def ascii_vro():
     ''')
     time.sleep(0.6)
     clear()
-    print(f"'
+    print(f'''
                  
              
     // ) )
